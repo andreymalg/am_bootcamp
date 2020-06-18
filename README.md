@@ -1,2 +1,3 @@
-# am_bootcamp
-Repo for use in bootcamp, starting lesson 12 onward
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
